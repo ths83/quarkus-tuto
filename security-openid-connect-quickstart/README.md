@@ -53,3 +53,8 @@ If you want to learn more about building native executables, please consult http
 ## Keycloak
 
 Run docker image: https://www.keycloak.org/getting-started/getting-started-docker
+
+#### Create own user, set up configuration
+
+- https://developers.redhat.com/blog/2020/01/29/api-login-and-jwt-token-generation-using-keycloak#test_your_new_client
+- https://plugins.miniorange.com/rest-api-authentication-using-keycloak-as-oauth-provider
